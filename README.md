@@ -1,3 +1,5 @@
+<img src="bannière.png" alt="Sami Banner" style="width:100%;"/>
+
 # 👋 Bonjour, je suis Sami 
 
 🎓 Ingénieur junior en Cybersécurité — diplômé 2024 de l’ESIEE Paris.  
