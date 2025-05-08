@@ -36,7 +36,7 @@ Solution complète de sécurisation réseau pour PME : automatisation, monitorin
 
 ## 📈 En constante progression
 
-- 💡 Formation continue en cybersécurité, cloud et IA.
+- 💡 Formation continue en cybersécurité, cloud et IA. [Udemy | [TryHackMe](https://tryhackme.com/p/yura94) | HTB]
 - 🧪 Publication régulière de projets et expérimentations sur GitHub.
 
 ---
@@ -100,7 +100,7 @@ Complete network security solution for SMEs: automation, monitoring, captive por
 
 ## 📈 Continuous Learning
 
-- 💡 Ongoing training in cybersecurity, cloud, and AI.
+- 💡 Ongoing training in cybersecurity, cloud, and AI.[Udemy | [TryHackMe](https://tryhackme.com/p/yura94) | HTB]
 - 🧪 Regularly publishing projects and experiments on GitHub.
 
 ---
