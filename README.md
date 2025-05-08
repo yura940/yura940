@@ -10,7 +10,7 @@
 ## 🛠️ Compétences principales
 
 - **Langages** : Python, Bash, Shell, Java, JavaScript, PHP, SQL  
-- **Cybersécurité** : Pentest, OSINT, CI/CD security, gestion des vulnérabilités  
+- **Cybersécurité** : Pentest, DevSecOps, IAM, Gestion des vulnérabilités  
 - **Réseaux** : VLAN, TCP/IP, VPN, Firewall, IDS/IPS  
 - **Cloud & DevOps** : Docker, Kubernetes, GitHub Actions, AWS  
 
@@ -74,7 +74,7 @@ Je cherche un **poste junior** en cybersécurité.
 ## 🛠️ Core Skills
 
 - **Languages**: Python, Bash, Shell, Java, JavaScript, PHP, SQL  
-- **Cybersecurity**: Pentesting, OSINT, CI/CD security, vulnerability management  
+- **Cybersecurity**: Pentesting, DevSecOps (CI/CD), Vulnerability management  
 - **Networking**: VLAN, TCP/IP, VPN, Firewall, IDS/IPS  
 - **Cloud & DevOps**: Docker, Kubernetes, GitHub Actions, AWS  
 
