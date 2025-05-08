@@ -26,7 +26,7 @@ Tous mes projets sont disponibles sur mon [GitHub](https://github.com/yura940).
 Sécurisation automatisée des pipelines avec GitHub Actions.
 
 ### 🧠 [AI Password Generator](https://github.com/yura940/ai-password-generator)  
-Générateur de mots de passe basé sur un modèle d'IA (transformer) entraîné avec TensorFlow.
+Générateur de mots de passe basé sur un modèle d'IA entraîné.
 
 ### 🛂 [Mini IAM](https://github.com/yura940/mini-iam)  
 Système de gestion des identités et des accès simplifié : gestion des rôles, tokens, politiques d’accès.
@@ -90,7 +90,7 @@ All of my projects are available on my [GitHub profile](https://github.com/yura9
 Automated security for CI/CD pipelines using GitHub Actions.
 
 ### 🧠 [AI Password Generator](https://github.com/yura940/ai-password-generator)  
-Password generator based on a transformer AI model trained with TensorFlow.
+Password generator based on a transformer AI model trained.
 
 ### 🛂 [Mini IAM](https://github.com/yura940/mini-iam)  
 Lightweight Identity and Access Management system: roles, tokens, and access policies.
