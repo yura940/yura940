@@ -2,7 +2,7 @@
 
 # 👋 Bonjour, je suis Sami 
 
-🎓 Ingénieur junior en Cybersécurité — diplômé 2024 de l’ESIEE Paris.  
+🎓 Ingénieur en Cybersécurité — diplômé 2024 de l’ESIEE Paris.  
 🔐 Passionné par la cybersécurité et ses défis techniques.  
 🧠 Intéressé par l’intelligence artificielle.   
 📍 Paris, France | 📫 samibrahimi46@gmail.com | [LinkedIn](https://www.linkedin.com/in/sami-brahimi/)
@@ -56,8 +56,7 @@ Cela me permet de garder le sens du collectif et de contribuer à un impact posi
 --- 
 
 
-## 💼 En recherche d’opportunités  
-Je cherche un **poste junior** en cybersécurité.  
+
 📫 [LinkedIn](https://www.linkedin.com/in/sami-brahimi/) | samibrahimi46@gmail.com
 
 
@@ -66,7 +65,7 @@ Je cherche un **poste junior** en cybersécurité.
 
 # 👋 Hi, I'm Sami
 
-🎓 Junior Cybersecurity Engineer — graduating in 2024 from ESIEE Paris.  
+🎓 Cybersecurity Engineer — graduating in 2024 from ESIEE Paris.  
 🔐 Passionate about cybersecurity and its technical challenges.  
 🧠 Interested in artificial intelligence and its applications.  
 📍 Paris, France | 📫 samibrahimi46@gmail.com | [LinkedIn](https://www.linkedin.com/in/sami-brahimi/)
@@ -119,7 +118,5 @@ It helps me stay grounded, team-oriented, and motivated to make a positive impac
 ---
 
 
-## 💼 Open to Opportunities  
-I'm currently looking for a **junior position** in cybersecurity.  
 📫 [LinkedIn](https://www.linkedin.com/in/sami-brahimi/) | samibrahimi46@gmail.com
 
