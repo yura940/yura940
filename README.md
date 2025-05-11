@@ -113,7 +113,6 @@ Since 2019, I’ve been involved in a humanitarian association:
 - Coordinating volunteer teams  
 - Providing academic support  
 - Building strong soft skills: communication, leadership, project management  
-
 It helps me stay grounded, team-oriented, and motivated to make a positive impact.
 ---
 
