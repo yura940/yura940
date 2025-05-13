@@ -1,4 +1,4 @@
-<img src="bannière.png" alt="Sami Banner" style="width:100%;"/>
+<img src="bannière1.png" alt="Sami Banner" style="width:100%;"/>
 
 # 👋 Bonjour, je suis Sami 
 
